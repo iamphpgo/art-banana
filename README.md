@@ -1,4 +1,9 @@
 # art banana
+</br>
+Elon Musk Tweets: Art in motion
+</br>
+<img src="https://github.com/iamphpgo/art-banana/blob/master/elon-tweet.png" alt="banana" style="max-width:100%;">
+</br>
 ART (banana) in (code)GITHUB
 </br>
 <img src="https://github.com/iamphpgo/art-banana/blob/master/banana.jpg" alt="banana" style="max-width:100%;">
