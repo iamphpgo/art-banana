@@ -1,13 +1,13 @@
-# art-banana
+# art banana
 ART (banana) in (code)GITHUB
 </br>
 <img src="https://github.com/iamphpgo/art-banana/blob/master/banana.jpg" alt="banana" style="max-width:100%;">
 </br>
-
- <a href="https://github.com/iamphpgo/art-banana/blob/master/banana.jpg" target="_blank" download>download</a> 
+<img src="https://github.com/iamphpgo/art-banana/blob/master/Screenshot_banana.png" alt="banana art" height="408" width="340">
 </br>
-<img src="https://github.com/iamphpgo/art-banana/blob/master/Screenshot_banana.png" alt="banana art" style="max-width:100%;">
+image demo banana.html
 </br>
- <a href="https://github.com/iamphpgo/art-banana/blob/master/Screenshot_banana.png" target="_blank" download>download image</a>
- </br>
- <a href="https://github.com/iamphpgo/art-banana/blob/master/banana.html" target="_blank" download>download file html</a>
+&#169;
+ <a href="https://www.refinery29.com/" target="_blank">image</a> 
+-
+<a href="https://www.manytools.org/" target="_blank">html</a> 
