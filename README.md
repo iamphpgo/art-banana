@@ -2,7 +2,7 @@
 </br>
 Elon Musk Tweets: Art in motion
 </br>
-<img src="https://github.com/iamphpgo/art-banana/blob/master/elon-tweet.png" alt="banana" style="max-width:100%;">
+<img src="https://github.com/iamphpgo/art-banana/blob/master/elon-tweet.png" alt="banana" height="408" width="340">
 </br>
 ART (banana) in (code)GITHUB
 </br>
