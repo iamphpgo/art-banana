@@ -8,6 +8,5 @@ ART (banana) in (code)GITHUB
 image demo banana.html
 </br>
 &#169;
- <a href="https://www.refinery29.com/" target="_blank">image</a> 
--
+<a href="https://www.refinery29.com/" target="_blank">image -</a> 
 <a href="https://www.manytools.org/" target="_blank">html</a> 
